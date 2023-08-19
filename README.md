@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex11b
 - 👀 I’m interested in building a strong coding foundation that I can use post military.
-- 🌱 I’m currently taking  Full Stack Develepor course on Udemy
+- 🌱 I’m currently taking a Full Stack Develepor course on Udemy
 - 📫 How to reach me alexsmith_73@yahoo.com
 
 <!---
